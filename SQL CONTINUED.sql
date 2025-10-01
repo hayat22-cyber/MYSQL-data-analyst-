@@ -1,0 +1,6 @@
+SELECT TOP (1000) [EmployeeID]
+      ,[Firstname]
+      ,[Lastname]
+      ,[Age]
+      ,[Gender]
+  FROM [MYSQL].[dbo].[EmployeeDemoGraphics]
